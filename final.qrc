@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/boat.png</file>
+        <file>images/car.png</file>
+        <file>images/generator.png</file>
+        <file>images/house.png</file>
+        <file>images/tower.png</file>
+        <file>images/delete.png</file>
+        <file>images/generatorOff.png</file>
+        <file>images/bgFillerKw.png</file>
+        <file>images/fillerKw.png</file>
+        <file>images/houseOff.png</file>
+        <file>images/highlight.png</file>
+        <file>images/minus.png</file>
+        <file>images/plus.png</file>
+        <file>images/smallTower.png</file>
+        <file>images/substation.png</file>
+    </qresource>
+</RCC>
